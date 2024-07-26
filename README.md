@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wh1teJ0ker
-- 👀 I’m interested in CTF，especial
+- 👀 I’m interested in CTF，especially for web&&misc
 - 🌱 I’m currently learning AI & CTF
 - ⚡ Blog: https://wh1tej0ker.github.io
 
